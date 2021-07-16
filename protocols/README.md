@@ -1,2 +1,2 @@
 # Classification of Routing Protocols
-<img src="protocols/images/routing-protocols.png">
+<img src="images/routing-protocols.PNG">
