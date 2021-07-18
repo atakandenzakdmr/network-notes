@@ -16,8 +16,8 @@ Dinamik yönlendirmede kullanılan yönlendirme protokolleri, -iki ana gurupta- 
 
 ##### 2- İç Yönlendirme Protokolleri: Yönlendirme işlemi bütün ağ içerisinde kendi aralarında gerçekleşir. İç yönlendirme protokolleri küçük internet içerisindeki yönlendiricilere, durum ve bağlantıları hakkında bilgi sağlar ve genellikle daha az karmaşık yönlendirme mimarisini destekler. </br>
 ##### Bu protokoller IGP (Interior Gateway Protocol – Dahili Geçit Protokol) olarak da adlandırılır. IGP protokollerinin IPv6 versiyonları aşağıdaki gibi listelenebilir.
-
-   <summary> <a href="https://github.com/atakandenzakdmr/network-notes/blob/4be186ff3a107ca5bbd08bf63482ef02611df0fc/protocols/RIPng/README.md" > RIPng </a> </summary> </br>
+</br>
+  <summary> <a href="https://github.com/atakandenzakdmr/network-notes/blob/4be186ff3a107ca5bbd08bf63482ef02611df0fc/protocols/RIPng/README.md" > RIPng </a> </summary> 
   • EIGRPv6 </br>
   • OSPFv3 </br>
   • IS-ISv6
