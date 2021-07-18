@@ -18,9 +18,9 @@ Dinamik yönlendirmede kullanılan yönlendirme protokolleri, -iki ana gurupta- 
 ##### Bu protokoller IGP (Interior Gateway Protocol – Dahili Geçit Protokol) olarak da adlandırılır. IGP protokollerinin IPv6 versiyonları aşağıdaki gibi listelenebilir.
 </br>
   <summary> <a href="https://github.com/atakandenzakdmr/network-notes/blob/4be186ff3a107ca5bbd08bf63482ef02611df0fc/protocols/RIPng/README.md" > RIPng </a> </summary> 
-  • EIGRPv6 </br>
-  • OSPFv3 </br>
-  • IS-ISv6
+• EIGRPv6 </br>
+• OSPFv3 </br>
+• IS-ISv6
 
 
 <img src= "https://github.com/atakandenzakdmr/network-notes/blob/dd4577a73bb989a49e09b5d8f681461c5d29a3e2/images/routing-protocols.PNG"> 
